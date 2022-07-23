@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\usuario\source\repos\algoritmo de huffman\algoritmo de huffman\source.cpp(88): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\algoritmo de huffman\algoritmo de huffman\source.cpp(117): warning C4018: '<': no coinciden signed/unsigned
+c:\users\usuario\source\repos\algoritmo de huffman\algoritmo de huffman\source.cpp(320): warning C4018: '<': no coinciden signed/unsigned
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Algoritmo de Huffman.vcxproj -> C:\Users\USUARIO\source\repos\Algoritmo de Huffman\Debug\Algoritmo de Huffman.exe
